@@ -1,8 +1,8 @@
 完成項目:
 1.程式碼編寫 架構=>
 src/main/java/com/coindesk
-├── CoinApplication.java
-├── controller/
+CoinApplication.java
+controller/
 │   ├── CurrencyController.java  
 │   └── CoinDeskController.java
 ├── service/
